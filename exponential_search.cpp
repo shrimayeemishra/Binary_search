@@ -1,4 +1,5 @@
 //Exponential search in bounded(finite) array
+//Explanation - This is a searching algorithm which applies binary search in a selected part of the main array.
 
 #include<iostream>
 #include<vector>
